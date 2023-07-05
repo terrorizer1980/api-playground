@@ -9,7 +9,7 @@
     "@material-ui/icons": "4.9.1",
     "@material-ui/lab": "4.0.0-alpha.47",
     "@material-ui/styles": "4.9.6",
-    "@mdx-js/mdx": "^1.5.4",
+    "@mdx-js/mdx": "^2.0.0",
     "@mdx-js/react": "^1.5.4",
     "@metamask/api-specs": "0.0.29",
     "@open-rpc/docs-react": "^1.5.0",
